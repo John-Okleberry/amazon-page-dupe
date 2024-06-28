@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body a {
+    color: #007185;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 350px;
+}
+
+.breadcrumbs {
+    color: #565959;
+}
+
+.page-whole {
+    display: flex;
+}
+
+.column-image {
+    display: block;
+    width: 350px;
+    margin: 20px;
+}
+
+.column-specifications {
+    display: block;
+    width: 550px;
+    margin: 20px;
+}
